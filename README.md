@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **azevedo_daniel1994@hotmail.com**
 
 
 <br></br>
