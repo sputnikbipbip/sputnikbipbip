@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I am looking for awesome projects starting at end of September</h3>
+<h1 align="center">Olá 👋, eu sou o Daniel</h1>
+<h3 align="center">Acabei recentemente o curso de Engenharia Informática e de Computadores, e estou neste momento à procura de trabalho.</h3>
 <br></br>
 
 - 🔭 Projeto final de curso : [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
