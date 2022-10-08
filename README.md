@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
 
-- 🌱 I’m currently learning **React**
 
 
 
