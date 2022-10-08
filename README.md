@@ -2,7 +2,7 @@
 <h3 align="center">I am looking for awesome projects starting at end of September</h3>
 <br></br>
 
-- 🔭 I’m currently working on [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
+- 🔭 Projeto final de curso : [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
 
 
 
