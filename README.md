@@ -1,10 +1,11 @@
-<h1 align="center">Olá 👋, eu sou o Daniel</h1>
-<h3 align="center">Acabei recentemente o curso de Engenharia Informática e de Computadores, e estou neste momento à procura de trabalho.</h3>
+<h1 align="center">Hello there 👋, I'm Daniel</h1>
+<h3 align="center">
+I recently finished the Computer and Computer Engineering course, and I am currently looking for work.</h3>
 <br></br>
 
-- 🔭 Projeto final de curso : [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
+End of course project : [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
 
-
+- 🔭 Currently I'm studying React.
 
 <br></br>
 <p align="left">
