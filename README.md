@@ -1,11 +1,12 @@
 <h1 align="center">Hello there 👋, I'm Daniel</h1>
 <h3 align="center">
-I recently finished the Computer and Computer Engineering course, and I am currently looking for work.</h3>
+I recently finished the Computer Engineering Degree, and I am currently looking for work.</h3>
 <br></br>
 
 End of course project : [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
 
-- 🔭 Currently I'm studying React.
+🔭 Currently I'm studying React.
+
 
 <br></br>
 <p align="left">
