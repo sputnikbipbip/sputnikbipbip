@@ -5,8 +5,14 @@ I recently finished the Computer Engineering Degree, and I am currently looking 
 
 End of course project : [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
 
-🔭 Currently I'm studying React.
-
+DIRECT-SINCRO é um sistema informático de gestão de acesso a eventos de transgressão de trânsito por proprietários e condutores, de subscrição voluntária.
+O sistema informático DIRECT-SINCRO tem como principal objetivo complementar o processamento de transgressões a regras de trânsito e subsequentes contraordenações da responsabilidade da Autoridade Nacional de Segurança Rodoviária (ANSR), enviando a contraordenação ao subscritor na altura da ocorrência da transgressão. Por “na altura” entenda-se, por tempo ocorrido no processamento automático da transgressão.
+Atualmente, o processo de tratamento inicia-se com a obtenção de evidências de transgressões pelo Sistema de Gestão de Evento de Trânsito (SIGET). As transgressões são, posteriormente, enviadas para o Sistema de Contraordenações de Trânsito (SCOT). Em seguida, o sistema informático SCOT realiza o levantamento do auto e procede ao envio de uma notificação de transgressão. A notificação é enviada para a morada do autuado via carta simples ou registada. O envio da carta poderá demorar meses a ser processado, levando a um desvanecimento do efeito dissuasor da multa, perdendo assim o seu propósito.
+Para além da demora da notificação da transgressão ao cidadão, o condutor do veículo no momento em foi cometida a infração poderá não ser o proprietário. Nesse caso, após a receção da carta é necessário o proprietário proceder a um pedido de defesa dentro de um prazo estabelecido de 15 dias para que seja possível debitar a responsabilidade no devido condutor.
+O sistema informático DIRECT-SINCRO pretende complementar o sistema atual usado pela ANSR, tendo como por objetivo minimizar o trabalho burocrático e, consequentemente, a sobrecarga dos serviços da ANSR. 
+Quando um veículo se encontra subscrito no sistema informático DIRECT-SINCRO e ocorre uma contraordenação associada ao mesmo, o SIGET coopera com o sistema informático DIRECT-SINCRO, enviando a informação relativa à transgressão. O sistema informático DIRECT-SINCRO tem como vantagens a notificação rápida ao subscritor, e disponibilização de um mecanismo para efetuar o pagamento da contraordenação, evitando assim o envio da carta. 
+Caso o condutor não seja o proprietário do veículo, o sistema informático DIRECT-SINCRO permite ao proprietário em conjunto com o condutor previamente notificar ao sistema informático a delegação da viatura, evitando o envio de pedidos de defesa para os serviços da ANSR.
+O objetivo do sistema informático DIRECT-SINCRO é agilizar e acelerar o processo de informar o cidadão, promovendo assim o cumprimento das regras de trânsito e a segurança rodoviária.
 
 <br></br>
 <p align="left">
