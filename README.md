@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Daniel</h1>
 <h3 align="center">
-I recently finished the Computer Engineering Degree, and I am currently looking for work.</h3>
+Acabei o curso de Engenharia Informática e de Computadores no ISEL, e estou no momento a procurar trabalho.</h3>
 <br></br>
 
-End of course project : [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
+Projeto de fim de curso : [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
 
 DIRECT-SINCRO é um sistema informático de gestão de acesso a eventos de transgressão de trânsito por proprietários e condutores, de subscrição voluntária.
 O sistema informático DIRECT-SINCRO tem como principal objetivo complementar o processamento de transgressões a regras de trânsito e subsequentes contraordenações da responsabilidade da Autoridade Nacional de Segurança Rodoviária (ANSR), enviando a contraordenação ao subscritor na altura da ocorrência da transgressão. Por “na altura” entenda-se, por tempo ocorrido no processamento automático da transgressão.
