@@ -3,7 +3,10 @@
 I finished Bachelor's degree in Computer Science and Engineering from ISEL, and I'm currently searching for a job.</h3>
 <br></br>
 
-<h3 align="left">End of course project : [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)</h3>
+<h3 align="left">End of course project: </h3>
+<br></br>
+
+[DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
 
 Direct-Sincro is a traffic event access management system for owners and drivers. Together with two classmates, we tried to demonstrate the possibility of a new system to incorporate in the current systems of the ANSR (Autoridade Nacional de Segurança Rodoviária), by making speeding tickets available to citizen in a shorter period of time, while offering a set of new functionalities, such as the payment of fines and the delegation of vehicles to other subscribers. We used PostgreSQL as a database management system in conjunction with SQL to build and manage our relational database. The main module was built on the JVM using Kotlin as the main programming language. We also used Spring Boot in the business layer. Node.js, Express, JavaScript, NPM, Handlebars, HTML & CSS, Node Fetch for the SIGET and SCOT systems that are responsible for capturing, processing and issuing the infractions in the ANSR systems. React, PWA, Bootstrap 5 for the user interface.   
 
@@ -11,7 +14,7 @@ Direct-Sincro is a traffic event access management system for owners and drivers
 
 PostgreSQL V42.1.4, SQL, JVM, Kotlin V1.6.21, Spring Boot V2.7.0, Node.js V16.15.1, Express V4.18.1, JavaScript, NPM, Handlebars 4.2.0, HTML & CSS, Node Fetch V3.2.5, React V18.1.0, PWA, BootStrap 5, UML (MagicDraw), Git, OpenApi 3.0, Swagger
 
-
+<br></br>
 <h2 align="left">Other projects:</h2>
 
 [Chess Royale - PDM - Programming on Mobile Devices – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/PDM_Programa%C3%A7%C3%A3oDispositivosM%C3%B3veis/PDM-2122i-LI5X-G28-main)
@@ -25,7 +28,7 @@ With another classmate, we created an Android application that presents daily ch
 
 Retrofit V2.9.0, Android Studio, Room V2.3.0, Kotlin V1.6.10, LiveData V2.4.0, WorkManager V2.7.1, Git, Gradle V7.0.3, Maven
 
-
+<br></br>
 [Jsonaif – AVE – Virtual Execution Environment – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/AVE_AmbientesVirtuaisExecu%C3%A7%C3%A3o/jsonaif-i42d_12-main)
 
 Description 
@@ -37,6 +40,7 @@ Together with another classmate we created a library for data processing in JSON
 
 Java Microbenchmark Harness, Kotlin V1.6.10, JavaPoet V1.13.0, Java V17.0.2, Kotlin Reflect, Gradle V6.8.3
 
+<br></br>
 [SO – Operating Systems – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/SO_SistemasOperativos/2021v-li42d-G09-main)
 
 Description 
