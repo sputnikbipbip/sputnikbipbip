@@ -12,6 +12,57 @@ Direct-Sincro is a traffic event access management system for owners and drivers
 PostgreSQL V42.1.4, SQL, JVM, Kotlin V1.6.21, Spring Boot V2.7.0, Node.js V16.15.1, Express V4.18.1, JavaScript, NPM, Handlebars 4.2.0, HTML & CSS, Node Fetch V3.2.5, React V18.1.0, PWA, BootStrap 5, UML (MagicDraw), Git, OpenApi 3.0, Swagger
 
 
+<h2 align="left">Other projects:</h2>
+
+[Chess Royale - PDM - Programming on Mobile Devices – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/PDM_Programa%C3%A7%C3%A3oDispositivosM%C3%B3veis/PDM-2122i-LI5X-G28-main)
+
+Description 
+
+With another classmate, we created an Android application that presents daily chess puzzles. Puzzles are retrieved daily from the Lichess API. An HTTP request is made to the API and in the body of the response we get information about the puzzle in its initial state and the moves allowed. Chess Royale has a screen for the history of daily puzzles, which are stored in memory after being extracted from the Lichess API. The database that supports the puzzle history was built with the Room framework (an abstract SQLite implementation more suitable for mobile operating systems). We also used Retrofit to make the requests to the Lichess API and WorkManager to schedule a thread to collect the information of the daily puzzle form the Lichess API even if the user doesn’t start de application.
+
+
+<h3 align="left">Technologies used:</h3>
+
+Retrofit V2.9.0, Android Studio, Room V2.3.0, Kotlin V1.6.10, LiveData V2.4.0, WorkManager V2.7.1, Git, Gradle V7.0.3, Maven
+
+
+[Jsonaif – AVE – Virtual Execution Environment – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/AVE_AmbientesVirtuaisExecu%C3%A7%C3%A3o/jsonaif-i42d_12-main)
+
+Description 
+
+Together with another classmate we created a library for data processing in JSON format. This library allows the user to transform a JSON string into an instance of a compatible domain class in runtime. This application used the library JavaPoet (Java API to generate .java source files at runtime) and Kotlin reflect (allows to introspect the structure of the program at runtime). Jsonaif performance was measured with the Java Microbenchmark Harness framework. Lazy and eager techniques were explored and compared.
+
+
+<h3 align="left">Technologies used:</h3>
+
+Java Microbenchmark Harness, Kotlin V1.6.10, JavaPoet V1.13.0, Java V17.0.2, Kotlin Reflect, Gradle V6.8.3
+
+[SO – Operating Systems – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/SO_SistemasOperativos/2021v-li42d-G09-main)
+
+Description 
+
+In the Operating Systems subject, together with two classmates, we created the following programs in C:
+
+We have developed a shell program for processing command lines with the ability to:
+
+* Run programs with and without arguments.
+* Run programs with and without arguments and redirect standard output.
+* Run programs, linking the standard output of one standard input to another.
+* Chaining programs redirecting the standard output of the last run.
+
+
+We made a program that allows you to edit the pixel values in a BMP type file, thus adjusting the tone of the image as a final result.
+
+We create a thread synchronization framework, and explore mutual access control techniques based on the use of semaphores, count down latches, etc.
+
+We generate a multi-threading program that allows searching by extension type, in all files (passed as an argument) a certain word.
+
+In the final part, we created a server to answer TCP/IP connections, whose functionality consists of converting all the letters of the text typed in the command line into uppercase. It was necessary to develop a client application for the server, which was responsible for closing the connection with the server. All requests were serviced by a single thread using the functionality of the libuv library.
+
+<h3 align="left">Technologies used:</h3>
+
+Libuv, Kernel, Ubuntu, C, Virtual Box
+
 <br></br>
 <p align="left">
 </p>
