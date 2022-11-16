@@ -19,7 +19,7 @@ PostgreSQL V42.1.4, SQL, JVM, Kotlin V1.6.21, Spring Boot V2.7.0, Node.js V16.15
 
 [Chess Royale - PDM - Programming on Mobile Devices – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/PDM_Programa%C3%A7%C3%A3oDispositivosM%C3%B3veis/PDM-2122i-LI5X-G28-main)
 
-Description 
+<h3 align="left">Description</h3>
 
 With another classmate, we created an Android application that presents daily chess puzzles. Puzzles are retrieved daily from the Lichess API. An HTTP request is made to the API and in the body of the response we get information about the puzzle in its initial state and the moves allowed. Chess Royale has a screen for the history of daily puzzles, which are stored in memory after being extracted from the Lichess API. The database that supports the puzzle history was built with the Room framework (an abstract SQLite implementation more suitable for mobile operating systems). We also used Retrofit to make the requests to the Lichess API and WorkManager to schedule a thread to collect the information of the daily puzzle form the Lichess API even if the user doesn’t start de application.
 
@@ -31,7 +31,7 @@ Retrofit V2.9.0, Android Studio, Room V2.3.0, Kotlin V1.6.10, LiveData V2.4.0, W
 <br></br>
 [Jsonaif – AVE – Virtual Execution Environment – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/AVE_AmbientesVirtuaisExecu%C3%A7%C3%A3o/jsonaif-i42d_12-main)
 
-Description 
+<h3 align="left">Description</h3>
 
 Together with another classmate we created a library for data processing in JSON format. This library allows the user to transform a JSON string into an instance of a compatible domain class in runtime. This application used the library JavaPoet (Java API to generate .java source files at runtime) and Kotlin reflect (allows to introspect the structure of the program at runtime). Jsonaif performance was measured with the Java Microbenchmark Harness framework. Lazy and eager techniques were explored and compared.
 
@@ -43,7 +43,7 @@ Java Microbenchmark Harness, Kotlin V1.6.10, JavaPoet V1.13.0, Java V17.0.2, Kot
 <br></br>
 [SO – Operating Systems – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/SO_SistemasOperativos/2021v-li42d-G09-main)
 
-Description 
+<h3 align="left">Description</h3>
 
 In the Operating Systems subject, together with two classmates, we created the following programs in C:
 
