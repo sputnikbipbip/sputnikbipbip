@@ -41,6 +41,18 @@ Together with another classmate we created a library for data processing in JSON
 Java Microbenchmark Harness, Kotlin V1.6.10, JavaPoet V1.13.0, Java V17.0.2, Kotlin Reflect, Gradle V6.8.3
 
 <br></br>
+[Multithreaded server for exchanging messages between client - PC - Concurrent Programming](https://github.com/isel-leic-pc/s2122-2-leic42d-problem-sets-student-SPUTNIKBIPBIP)
+
+<h3 align="left">Description</h3>
+
+In the Concurrent Programming subject I made a server with a TCP/IP interface to exchange messages between clients in Kotlin. To manage multithreading I used the java.util.concurrent library and Kotlin's Coroutines.
+The application allows you to create, leave or enter shared rooms. The management of messages between clients in the rooms is guaranteed using data structures incorporated in the java.util.concurrent Java library. 
+
+<h3 align="left">Technologies used:</h3>
+
+Kotlin, Kotlin Coroutines, Java NIO, Java Concurrent
+
+<br></br>
 [SO – Operating Systems – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/SO_SistemasOperativos/2021v-li42d-G09-main)
 
 <h3 align="left">Description</h3>
