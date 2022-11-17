@@ -51,8 +51,8 @@ We have developed a shell program for processing command lines with the ability 
 
 * Run programs with and without arguments.
 * Run programs with and without arguments and redirect standard output.
-* Run programs, linking the standard output of one standard input to another.
-* Chaining programs redirecting the standard output of the last run.
+* Run programs, redirecting the standard output of one program to the standard input of another.
+* Chaining programs execution redirecting the standard output of the last run.
 
 
 We made a program that allows you to edit the pixel values in a BMP type file, thus adjusting the tone of the image as a final result.
