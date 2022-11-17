@@ -96,7 +96,7 @@ JavaScript, NPM, Express, OpenAPI 3.0, YAML, ElasticSearch, Supertest, Node-fetc
 <h3 align="left">Description</h3>
 
 <h3 align="left">Technologies used:</h3>
-EntityFramework, .nuget, .NET, SQL, MySQL, C#
+EntityFramework, .nuget, .NET, SQL, MySQL, C#, T-SQL
 
 <br></br>
 <p align="left">
