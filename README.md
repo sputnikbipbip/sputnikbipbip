@@ -3,7 +3,7 @@
 I finished Bachelor's degree in Computer Science and Engineering from ISEL, and I'm currently searching for a job.</h3>
 <br></br>
 
-<h3 align="left">End of course project: </h3>
+<h3 align="left">Final project: </h3>
 <br></br>
 
 [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
