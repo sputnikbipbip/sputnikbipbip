@@ -17,6 +17,17 @@ PostgreSQL V42.1.4, SQL, JVM, Kotlin V1.6.21, Spring Boot V2.7.0, Node.js V16.15
 <br></br>
 <h2 align="left">Other projects:</h2>
 
+[Multithreaded server for exchanging messages between client - PC - Concurrent Programming 2022-2023](https://github.com/isel-leic-pc/s2122-2-leic42d-problem-sets-student-SPUTNIKBIPBIP)
+
+<h3 align="left">Description</h3>
+
+In the Concurrent Programming subject I made a server with a **TCP/IP** interface to exchange messages between clients in **Kotlin**. To manage multithreading I used the java.util.concurrent library and **Kotlin's Coroutines**.
+The application allows you to create, leave or enter shared rooms. The management of messages between clients in the rooms is guaranteed using data structures incorporated in the java.util.concurrent Java library. 
+
+<h3 align="left">Technologies used:</h3>
+
+Kotlin, Kotlin Coroutines, Java NIO, Java Concurrent
+
 [Chess Royale - PDM - Programming on Mobile Devices – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/PDM_Programa%C3%A7%C3%A3oDispositivosM%C3%B3veis/PDM-2122i-LI5X-G28-main)
 
 <h3 align="left">Description</h3>
@@ -39,18 +50,6 @@ Together with another classmate we created a library for data processing in **JS
 <h3 align="left">Technologies used:</h3>
 
 Java Microbenchmark Harness, Kotlin V1.6.10, JavaPoet V1.13.0, Java V17.0.2, Kotlin Reflect, Gradle V6.8.3
-
-<br></br>
-[Multithreaded server for exchanging messages between client - PC - Concurrent Programming 2022-2023](https://github.com/isel-leic-pc/s2122-2-leic42d-problem-sets-student-SPUTNIKBIPBIP)
-
-<h3 align="left">Description</h3>
-
-In the Concurrent Programming subject I made a server with a **TCP/IP** interface to exchange messages between clients in **Kotlin**. To manage multithreading I used the java.util.concurrent library and **Kotlin's Coroutines**.
-The application allows you to create, leave or enter shared rooms. The management of messages between clients in the rooms is guaranteed using data structures incorporated in the java.util.concurrent Java library. 
-
-<h3 align="left">Technologies used:</h3>
-
-Kotlin, Kotlin Coroutines, Java NIO, Java Concurrent
 
 <br></br>
 [SO – Operating Systems – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/SO_SistemasOperativos/2021v-li42d-G09-main)
