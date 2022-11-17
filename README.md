@@ -28,6 +28,7 @@ The application allows you to create, leave or enter shared rooms. The managemen
 
 Kotlin, Kotlin Coroutines, Java NIO, Java Concurrent
 
+<br></br>
 [Chess Royale - PDM - Programming on Mobile Devices – 2021-2022](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/PDM_Programa%C3%A7%C3%A3oDispositivosM%C3%B3veis/PDM-2122i-LI5X-G28-main)
 
 <h3 align="left">Description</h3>
