@@ -5,7 +5,7 @@ I finished Bachelor's degree in Computer Science and Engineering from ISEL, and 
 <br></br>
 
 :telescope: Currently I'm starting [Docker Mastery](https://www.udemy.com/course/docker-mastery/) course and reinforcing my knowledge in 
-[Github](https://www.freecodecamp.org/news/git-for-professionals/) 
+[Git](https://www.freecodecamp.org/news/git-for-professionals/) 
 
 <h3 align="left">Final project: </h3>
 [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
