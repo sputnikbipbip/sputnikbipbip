@@ -8,6 +8,7 @@ I finished Bachelor's degree in Computer Science and Engineering from ISEL, and 
 [Git](https://www.freecodecamp.org/news/git-for-professionals/) 
 
 <h3 align="left">Final project: </h3>
+
 [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
 
 **Direct-Sincro** is a traffic event access management system for owners and drivers. Together with two classmates, we tried to demonstrate the possibility of a new system to incorporate in the current systems of the **ANSR** (Autoridade Nacional de Segurança Rodoviária), by making speeding tickets available to citizen in a shorter period of time, while offering a set of new functionalities, such as the payment of fines and the delegation of vehicles to other subscribers. We used **PostgreSQL** as a database management system in conjunction with **SQL** to build and manage our **relational database**. The main module was built on the **JVM** using **Kotlin** as the main programming language. We also used **Spring Boot** in the business layer. **Node.js**, **Express**, **JavaScript**, **NPM**, **Handlebars**, **HTML & CSS**, **Node Fetch** for the **SIGET** and **SCOT** systems that are responsible for capturing, processing and issuing the infractions in the **ANSR** systems. **React**, **PWA**, **Bootstrap 5** for the user interface.   
