@@ -103,12 +103,16 @@ EntityFramework, .nuget, .NET, SQL, MySQL, C#, T-SQL
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <br></br>
 [POO – Object Oriented Programming – 2020-2021](https://github.com/sputnikbipbip/ISEL_Projects/tree/main/POO_Programa%C3%A7%C3%A3oOrientadaObjetos)
 
 <h3 align="left">Description</h3>
+
+I made 2 games in Android. 
+
+The design one is an application that lets you draw lines, circles or other figures in a view on Android.
+
+covid_extermination is a game whose goal is to insert the viruses into the trash can, winning the game when there are no more viruses left. This one is the most complex.
 
 <h3 align="left">Technologies used:</h3>
 Java, Gradle, OOP, Android
