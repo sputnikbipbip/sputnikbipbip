@@ -4,9 +4,7 @@ I finished Bachelor's degree in Computer Science and Engineering from ISEL, and 
 </h3>
 <br></br>
 
-:telescope: Currently I'm starting [Docker Mastery](https://www.udemy.com/course/docker-mastery/) course and reinforcing my knowledge in 
-[Git](https://www.freecodecamp.org/news/git-for-professionals/) 
-
+:telescope: Currently making [Docker Mastery](https://www.udemy.com/course/docker-mastery/) course.
 <h3 align="left">Final project: </h3>
 
 [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
