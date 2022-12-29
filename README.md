@@ -1,7 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Daniel</h1>
-<h3 align="center">
-I finished Bachelor's degree in Computer Science and Engineering from ISEL, and I'm currently searching for a job.
-</h3>
+
 <br></br>
 
 :telescope: Currently making [Docker Mastery](https://www.udemy.com/course/docker-mastery/) course.
