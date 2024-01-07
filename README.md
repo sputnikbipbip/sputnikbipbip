@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Daniel</h1>
 
 <br></br>
-
-:telescope: Currently making [Docker Mastery](https://www.udemy.com/course/docker-mastery/) course.
 <h3 align="left">Final project: </h3>
 
 [DIRECT-SINCRO](https://github.com/RainPumpkin/direct-sincro)
