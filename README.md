@@ -1,7 +1,15 @@
 <h1 align="center">Hello there 👋, I'm Daniel</h1>
 
-Currently I'm a c# software developer in 360imprimir. 
+<br></br>
+Currently I'm a c# software developer in 360imprimir.
 
+I am committed to continuous improvement and embrace opportunities to expand my skill set and knowledge base.
+
+Feel free to contact me.
+
+
+<br></br>
+<br></br>
 ### Connect with me  
 <div align="left">
 <a href="https://www.linkedin.com/in/daniel-azevedo-8404a7112/" target="_blank">
@@ -9,8 +17,6 @@ Currently I'm a c# software developer in 360imprimir.
 </a>
 </div>  
 <br></br>
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
