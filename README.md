@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Daniel</h1>
 
 <p align="center">
-  <em>Software Developer at 360imprimir · Passionate about automation, backend development, and DevOps.</em>
+  <em>Software Developer · Passionate about automation, backend development and i interested in DevOps.</em>
 </p>
 
 ---
@@ -31,10 +31,18 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity Overview
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Daniel's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sputnikbipbip&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sputnikbipbip&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sputnikbipbip&theme=radical" alt="GitHub Summary" />
 </p>
 
 ---
