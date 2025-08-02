@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Daniel</h1>
 
 <p align="center">
-  <em>Software Developer · Passionate about automation, backend development and i interested in DevOps.</em>
+  <em>Software Developer · Passionate about automation, backend development and very interested in DevOps and Systems Designs.</em>
 </p>
 
 ---
