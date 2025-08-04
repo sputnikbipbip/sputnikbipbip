@@ -10,8 +10,7 @@
 
 - 🔭 I’m currently working with **C#**, **.NET 8**, **Microservices**, and **Docker**  
 - ⚙️ My daily tools: `.NET`, `SQL`, `MongoDB`, `Docker`, `Git`, `Azure`, `JavaScript`  
-- 🚀 Passionate about workflow automation using **n8n** and building scalable backend systems  
-- 📘 Currently learning: **Kubernetes**, **System Design**, and **Advanced DevOps practices**  
+- 📘 Currently learning: **Kubernetes**, **System Design** 
 - 💬 Ask me about anything related to **C#**, **APIs**, **Containers**, or **Automation**
 
 ---
