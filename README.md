@@ -30,18 +30,6 @@
 
 ---
 
-### 📊 GitHub Activity Overview
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sputnikbipbip&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sputnikbipbip&theme=radical" alt="GitHub Summary" />
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
