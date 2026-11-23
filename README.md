@@ -18,6 +18,13 @@
   <sub>ℹ️ Some features are currently paused due to budget limits. e.g Email delivery is disabled, so new users cannot complete registration.</sub>
 </p>
 
+<p align="center">
+  🚀 <a href="https://bizzup.csproject.org"><strong>BizzUp</strong></a>
+</p>
+<p align="center">
+  <sub>🔧 I had to give up my previous server due to budget constraints. I’m moving everything to a new server and setting up the n8n workflow again.</sub>
+</p>
+
 <h3 align="center">💼 Client Websites</h3>
 
 <p align="center">
