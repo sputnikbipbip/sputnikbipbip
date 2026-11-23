@@ -18,7 +18,12 @@
   <sub>ℹ️ Some features are currently paused due to budget limits. e.g Email delivery is disabled, so new users cannot complete registration.</sub>
 </p>
 
+<h3 align="center">💼 Client Websites</h3>
 
+<p align="center">
+  📄 <a href="https://beirapapel.pt"><strong>BeiraPapel</strong></a>
+  · A company website I built for a Portuguese business in the paper industry.
+</p>
 
 
 ---
