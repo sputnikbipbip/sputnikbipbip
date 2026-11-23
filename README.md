@@ -20,6 +20,7 @@
 
 <p align="center">
   🚀 <a href="https://bizzup.csproject.org"><strong>BizzUp</strong></a>
+  · Helps businesses find tasks they can automate and includes an AI chatbot that talks with potential clients about their needs.
 </p>
 <p align="center">
   <sub>🔧 I had to give up my previous server due to budget constraints. I’m moving everything to a new server and setting up the n8n workflow again.</sub>
