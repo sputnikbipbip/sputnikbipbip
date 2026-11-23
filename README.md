@@ -8,6 +8,19 @@
   Building reliable backend systems, APIs and automation — and exploring how AI agents can make software more capable.
 </p>
 
+<h3 align="center">🛠️ Featured Projects</h3>
+
+<p align="center">
+  📅 <a href="https://horavaga.csproject.org"><strong>HoraVaga</strong></a>
+  · Appointment booking platform with online payments and automated reminders.
+</p>
+<p align="center">
+  <sub>ℹ️ Some features are currently paused due to budget limits. e.g Email delivery is disabled, so new users cannot complete registration.</sub>
+</p>
+
+
+
+
 ---
 
 ## 👨‍💻 About Me
